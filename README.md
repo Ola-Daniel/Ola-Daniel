@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ola-Daniel
+- 👋 Hi, I’m @Daniel Ola-Olorun
 - 👀 I’m interested in Privacy,Cyber-Security and Ethical Hacking
 - 🌱 I’m currently learning Python and Penetration Testing
 - 💞️ I’m looking to collaborate on Security Focused Projects
