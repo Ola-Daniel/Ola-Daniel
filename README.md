@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel Ola-Olorun
 - 👀 I’m interested in Cloud, DevOps and Cyber-Security
-- 🌱 I’m currently learning Python and Aws
+- 🌱 I’m currently learning Python and AWS
 - 💞️ I’m looking to collaborate on Cloud and Security Focused Projects
 - 📫 How to reach me: danielolaolorun@gmail.com
 
