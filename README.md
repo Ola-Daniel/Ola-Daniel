@@ -2,13 +2,12 @@
 - 👀 I’m interested in Cloud, DevOps and Cyber-Security
 - 🌱 I’m currently learning Golang and Azure
 - 💞️ I’m looking to collaborate on Cloud, Automation and Security Focused Projects
-- 📫 How to reach me: redacted
+- 📫 How to reach me: https://danieloo.com/contact/ 
 
 
 
 
 
 <!---
-Ola-Daniel/Ola-Daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
