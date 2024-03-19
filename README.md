@@ -8,7 +8,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-Expert-blue?style=for-the-badge&logo=terraform)
 ![ansible](https://img.shields.io/badge/Ansible-Expert-blue?style=for-the-badge&logo=ansible)
 ![AWS](https://img.shields.io/badge/AWS-Expert-blue?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-Expert-orange?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-Expert-blue?style=for-the-badge)
 ![GCP](https://img.shields.io/badge/GCP-intermediate-orange?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Expert-blue?style=for-the-badge)
 
