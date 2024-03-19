@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daniel Ola-Olorun
+- 👋 Hi there, I’m @Daniel Ola-Olorun
 - 👀 I’m interested in Cloud, DevOps and Security
 - 💞️ I’m looking to collaborate on Cloud, Automation and Security Focused Projects
 - 📫 How to reach me: mailto:hey@danieloo.com
