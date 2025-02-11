@@ -13,7 +13,7 @@
 
 ### 📫 How to reach me:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/horla_dan?style=social)](https://twitter.com/horla_dan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thisdanieloo?style=social)](https://twitter.com/thisdanieloo)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ola-olorun-daniel-52804116a/)
 [![Email](https://img.shields.io/badge/-hey@danieloo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:=hey@danieloo.com)](mailto:hey@danieloo.com)
 
